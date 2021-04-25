@@ -7,16 +7,16 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/andretorquato/rocketshoes">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/andretorquato/WatchMe">
 
   <a href="https://www.linkedin.com/in/andretorquatoo/">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-Andre%20Torquato-gree">
   </a>
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/andretorquato/rocketshoes">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/andretorquato/WatchMe">
   
-  <a href="https://github.com/andretorquato/rocketshoes/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/andretorquato/rocketshoes">
+  <a href="https://github.com/andretorquato/WatchMe/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/andretorquato/WatchMe">
   </a>
 </p>
 
@@ -54,7 +54,7 @@ Technologies that I used to develop this api
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/andretorquato/rocketshoes.git && cd rocketshoes
+$ git clone https://github.com/andretorquato/WatchMe.git && cd WatchMe
 ```
 
 **Follow the steps below**
@@ -64,8 +64,8 @@ $ git clone https://github.com/andretorquato/rocketshoes.git && cd rocketshoes
 _Obs.: Before to continue, be sure to have the API running_
 
 ```bash
-# Starting from the project root folder, go to rocketshoes folder
-$ cd rocketshoes
+# Starting from the project root folder, go to WatchMe folder
+$ cd WatchMe
 
 
 # Install the dependencies
